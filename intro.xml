@@ -1,0 +1,44 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<bookstore>
+    <college category="BCA">
+        <semester category="first">
+            <!--BCA First Semester Record -->
+            <codeid>
+                <id>CA001</id>
+                <teacher>Nabin Shrestha</teacher>
+                <course>Computer Fundamental</course>
+            </codeid>
+        </semester>
+        <semester category="second">
+            <!--BBA Second Semester Record -->
+            <codeid>
+                <id>CA111</id>
+                <teacher>Manish Rathi</teacher>
+                <course>Microprocessor</course>
+            </codeid>
+        </semester>
+    </college>
+
+
+    <!-- BBS Sechdule -->
+    <college category="BBA">
+        <semester category="first">
+            <!--BBA First Semester Record -->
+            <codeid>
+                <id>BBA01</id>
+                <teacher>Keshav Neupane</teacher>
+                <course>Economics</course>
+            </codeid>
+        </semester>
+
+        <semester category="second">
+            <!--BBA Second Semester Record -->
+            <codeid>
+                <id>BBA010</id>
+                <teacher>Ritesh Deskmuk</teacher>
+                <course>Finance</course>
+            </codeid>
+        </semester>
+    </college>
+</bookstore>
